@@ -1,0 +1,11 @@
+.home-contant {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  min-width: 150px;
+}
+.home-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Siva",
+      "location": "Bengaluru",
+      "likes": 64,
+      "description": "Kick start your career",
+      "PostImage": "https://www.shutterstock.com/image-photo/young-handsome-man-beard-wearing-260nw-1768126784.jpg",
+      "date": "12 Jan 2023"
+    },
+    {
+      "name": "Neeraj",
+      "location": "Pune",
+      "likes": 30,
+      "description": "Sample Description",
+      "PostImage": "https://www.shutterstock.com/image-photo/full-body-size-photo-positive-260nw-2230981879.jpg",
+      "date": "12 Jan 2023"
+    },
+    {
+      "name": "Rahul",
+      "location": "Hyderabad",
+      "likes": 30,
+      "description": "Sample Description for Post",
+      "PostImage": "https://www.shutterstock.com/image-photo/full-body-size-photo-positive-260nw-2230981879.jpg",
+      "date": "12 Jan 2023"
+    }
+  ]
+}
